@@ -57,7 +57,6 @@ public class WaterTgBot extends TelegramLongPollingBot {
 //            case "/start" -> startBot(chatId, userName);
 //            case "/help" -> sendHelpText(chatId, HELP_TEXT);
 //            case "/resetme" -> resetUserProfile(userId, chatId);
-//            case "пошел нахуй" -> sendHelpText(chatId, "сам пошел нахуй.");
 //            default -> sendHelpText(chatId, "Сорян, я ничего не понял.");
 //        }
 //    }
